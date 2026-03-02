@@ -1,3 +1,5 @@
 requests
 python-dotenv
-delta_rest_client
+python-socketio 
+websocket-client 
+
