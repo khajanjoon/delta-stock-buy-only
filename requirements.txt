@@ -1,0 +1,3 @@
+requests
+python-dotenv
+delta_rest_client
